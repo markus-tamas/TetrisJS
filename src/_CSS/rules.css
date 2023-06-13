@@ -1,0 +1,12 @@
+ul {
+	list-style-type: square;
+	font-size: 1.25em;
+	text-align: justify;
+	padding: 0 0.4em 0 0.9em;
+	min-width: 10em;
+}
+
+ul>li {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}

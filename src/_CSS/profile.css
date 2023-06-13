@@ -1,0 +1,30 @@
+.button {
+	font-size: inherit;
+	margin-top: 0.5em;
+	padding: 3px;
+}
+
+.timing {
+	width: 40%;
+}
+
+.timing input {
+	position: relative;
+	right: 10%;
+	max-width: 100;
+}
+
+#settingForm form, #settingform form div {
+	margin: 0;
+	padding: 0;
+}
+
+#colors tr td.collab {
+	text-align: left;
+	padding: 0 0.5em 0 0.3em;
+	margin: 0;
+}
+
+#rstBtn {
+	margin-right: 0.5em;
+}

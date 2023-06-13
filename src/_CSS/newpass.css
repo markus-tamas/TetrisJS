@@ -1,0 +1,15 @@
+form {
+	margin: 10px 0 0 0;
+}
+
+input.text {
+	width: 100%;
+}
+
+#pswresetform>form>div {
+	text-align: right;
+}
+
+label span {
+	color: red;
+}

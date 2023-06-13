@@ -1,0 +1,27 @@
+button {
+	font-size: inherit;
+	margin-top: 0.7em;
+	padding: 3px;
+}
+
+.stattable {
+	font-size: 1.2em;
+}
+
+#stats {
+	font-size: 1em;
+}
+
+#playButton {
+	font-size: 2em;
+	margin: 0;
+	padding: 0.2em 0.4em 0.2em 0.4em;
+}
+
+#scores tr>td:last-child {
+	text-align: right;
+}
+
+#scores tr>td:first-child {
+	text-align: left;
+}
